@@ -10,3 +10,7 @@ console.log(numerosInvertidos);
 const valores = [0, "Hola", false, 42, "", null, "Mundo", undefined, NaN, true];
 const filtrados = ordenLoda.compact(valores);
 console.log(filtrados); 
+
+//DESAFIO 3
+//Unión de Arreglos: Dados dos arreglos, únelos sin duplicados.
+const array1 = [1, 2, 3]; const array2 = [3, 4, 5];
